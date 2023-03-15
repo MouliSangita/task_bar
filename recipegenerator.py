@@ -31,7 +31,7 @@ class RecipeApp:
         self.api_endpoint = "https://api.spoonacular.com/recipes/complexSearch"
 
         # Your Spoonacular API key
-        self.api_key = "ccdf89c1cd12407b8f8c14fa3442e9b5"
+        self.api_key = YOUR_API_KEY
 
         self.recipes = []
 
